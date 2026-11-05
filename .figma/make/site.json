@@ -1,0 +1,15 @@
+{
+  "title": "Amin Nemati | Product Designer",
+  "description": "Amin Nemati is a Product Designer specializing in UX/UI, digital products, design systems, and user-centered experiences that solve real-world problems.",
+  "language": "en",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "/.figma/make/favicon.png"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
